@@ -24,6 +24,8 @@ We run on the Intel Core Xeon E5-2630@2.3GHz, 64GB RAM and two GeForce GTX 1080T
 ### Data Preparation
 download the three public datasets and put them in the NUS-WIDE, VOC2012, COCO sub-folders, respectively. When you use some other datsets, you have to modify the path for the parameters unseen_img_dir and seen_img_dir.  
 
+In the folder `./data/', we have given the lists for partitioning the datasets for NUS-WIDE, VOC2012 and COCO. 
+
 For word2vec, the glove model is used. You can generate new word vectors by changing the path of the label file. ( codes for word2vec can be found in the `word2vec' folder)
 
 ### Pretrained Models
