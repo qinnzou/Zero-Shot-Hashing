@@ -22,14 +22,14 @@ We run on the Intel Core Xeon E5-2630@2.3GHz, 64GB RAM and two GeForce GTX 1080T
 
 ## Preparation
 ### Data Preparation
-download the three public datasets and put them in the datasets/NUS-WIDE, VOC2012, COCO sub-folders, respectively. When you use some other datsets, you have to modify the path for the parameters unseen_img_dir and seen_img_dir.  
+Download the three public datasets and put them in the dataset/NUS-WIDE, VOC2012, COCO sub-folders, respectively. When you use some other datasets, you have to modify the values of the parameters unseen_img_dir and seen_img_dir.  
 
 In the folder `./data/', we have given the lists for partitioning the datasets for NUS-WIDE, VOC2012 and COCO. 
 
 For word2vec, the glove model is used. You can generate new word vectors by changing the path of the label file. ( codes for word2vec can be found in the `word2vec' folder)
 
 ### Pretrained Models
-Pretrained models using PyTorch are available using links in the linkage below, including the propoesd models (ResNet50 as the backbone network) , training on between nuswide and Passcal Voc datasets, with 12, 24, 36 and 48 bit hash codes.   
+Pretrained models using PyTorch are available using the link below, including the eight models, which takes ResNet50 as the backbone network, and were trained on between nuswide and Passcal Voc datasets, with 12-, 24-, 36- and 48-bits hash codes.   
 You can download them and put them into "./models/".  
 https://pan.baidu.com/s/1y0A0rHaJcrbaPQzkfT_xNQ 
 passcodes：abcd 
