@@ -21,10 +21,10 @@ CUDA 10.0
 We run on the Intel Core Xeon E5-2630@2.3GHz, 64GB RAM and two GeForce GTX 1080Ti GPUs.
 
 ## Preparation
-### Data Preparation
+### Data Preparation (training/test image indice)
 Download the three public datasets and put them in the dataset/NUS-WIDE, VOC2012, COCO sub-folders, respectively. When you use some other datasets, you have to modify the values of the parameters unseen_img_dir and seen_img_dir.  
 
-In the folder `./data/', we have given the lists for partitioning the datasets for NUS-WIDE, VOC2012 and COCO. 
+In the folder `./data/', we have given the lists for partitioning the datasets for NUS-WIDE, VOC2012 and COCO. The indice of the training/test images can be found in the three subfolders.
 
 For word2vec, the glove model is used. You can generate new word vectors by changing the path of the label file. ( codes for word2vec can be found in the `word2vec' folder)
 
