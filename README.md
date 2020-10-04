@@ -49,7 +49,7 @@ python train_resnet.py
 ```
 
 ## Test
-To evlauate the performance of a pre-trained model, please put the pretrained model listed above or your own models into "./models/" and change "pretrained_path" in config.py at first, then Choose the right model that would be evlauated, and then simply run:  
+To evlauate the performance of a pre-trained model, you should put the pretrained model released by us or trained by yourself into "./models/" and change "pretrained_path" in the config.py at first, then choose the right model that is going to be evlauated and run:  
 ```
 python eval_alexnet.py
 ```
