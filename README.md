@@ -18,7 +18,7 @@ passcodes：abcd
 PyTorch 1.0.0  
 Python 3.6  
 CUDA 10.0  
-We run on the Intel Core Xeon E5-2630@2.3GHz, 64GB RAM and two GeForce GTX 1080Ti GPUs.
+We run on the Intel Core Xeon E5-2620@2.0GHz, 64GB RAM and two NVIDIA TITAN Xp GPUs.
 
 ## Preparation
 ### Data Preparation (training/test image indice)
