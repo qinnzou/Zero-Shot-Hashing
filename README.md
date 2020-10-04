@@ -9,8 +9,8 @@ Zou Q, Cao L, Zhang Z, Chen L, and Wang S, Transductive Zero-Shot Hashing For Mu
 
 ## Download:
 
-You can also download the **pretrained model** from the following link,  
-https://pan.baidu.com/s/1y0A0rHaJcrbaPQzkfT_xNQ 
+You can also download the **pretrained model** from the following link,   
+https://pan.baidu.com/s/1y0A0rHaJcrbaPQzkfT_xNQ   
 passcodes：abcd 
 
 # Set up
@@ -29,9 +29,9 @@ In the folder `./data/', we have given the lists for partitioning the datasets f
 For word2vec, the glove model is used. You can generate new word vectors by changing the path of the label file. ( codes for word2vec can be found in the `word2vec' folder)
 
 ### Pretrained Models
-Pretrained models using PyTorch are available using the link below, including the eight models, which takes ResNet50 as the backbone network, and were trained on between nuswide and Passcal Voc datasets, with 12-, 24-, 36- and 48-bits hash codes.   
-You can download them and put them into "./models/".  
-https://pan.baidu.com/s/1y0A0rHaJcrbaPQzkfT_xNQ 
+Pretrained models using PyTorch are available using the link below, including the eight models, which take the ResNet50 as the backbone network, and are trained on between the Nuswide and Voc datasets, with 12-, 24-, 36-, and 48-bits hash codes.   
+You can download them and put them into "./models/".    
+https://pan.baidu.com/s/1y0A0rHaJcrbaPQzkfT_xNQ   
 passcodes：abcd 
 
 ## Training
