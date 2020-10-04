@@ -2,7 +2,7 @@
 Transductive Zero-Shot Hashing For Multi-Label Image Retrieval
 
 
-This is the source code of Transductive Zero-Shot Hashing For Multi-Label Image Retrieval. We provide the codes, the partitioning of the datasets and the pretrained model.
+This is the source code of Transductive Zero-Shot Hashing For Multi-Label Image Retrieval. We provide the codes, the partitioning of the datasets, and the pretrained models on between Nuswide and Voc.
 
 Zou Q, Cao L, Zhang Z, Chen L, and Wang S, Transductive Zero-Shot Hashing For Multi-Label Image Retrieval, Under review, 2020.
 
