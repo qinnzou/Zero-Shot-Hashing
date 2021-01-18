@@ -68,4 +68,13 @@ or
 python eval_resnet.py
 ```
 
-
+# Citation:
+Please cite our work if you use this code:
+```
+@article{zou2020tnnls,
+  title={Transductive Zero-Shot Hashing For Multilabel Image Retrieval},
+  author={Q. Zou and L. Cao and Z. Zhang and L. Chen and S. Wang},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={DOI: 10.1109/tnnls.2020.3043298, Dec 2020},
+}
+```
