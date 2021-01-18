@@ -1,0 +1,5 @@
+vectors_300d.txt
+
+Please download this file from Baidu Yun:
+https://pan.baidu.com/s/1klEFiupLspCSK093GoqRzg 
+passcodes：jvjg 
